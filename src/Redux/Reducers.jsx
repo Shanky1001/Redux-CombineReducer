@@ -1,5 +1,5 @@
-import { BUY_CAKES, BUY_CHOCOLATE, BUY_ICECREAM, INPUTS } from "./Actions"
-import { combineReducers } from 'redux'
+import { BUY_CAKES, BUY_CHOCOLATE, BUY_ICECREAM, INPUTS } from "./Actions";
+import { combineReducers } from 'redux';
 
 export const initialState = {
     Chocolate: 50, Cakes: 50, iceCream: 50, inputs: { cakeInp: '', iceCreamInp: '', chocolateInp: '' }
