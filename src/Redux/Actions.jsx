@@ -1,8 +1,8 @@
 
 
 export const BUY_CAKES = 'Buy Cakes';
-export const BUY_ICECREAM = 'Buy Ice Cream'
-export const BUY_CHOCOLATE = 'Buy Chocolate'
+export const BUY_ICECREAM = 'Buy Ice Cream';
+export const BUY_CHOCOLATE = 'Buy Chocolate';
 export const INPUTS = 'Inputs';
 
 export const BuyCakes = (quantity) => {
