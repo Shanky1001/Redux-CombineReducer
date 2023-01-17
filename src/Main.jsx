@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { Box, Button, Card, Stack, TextField } from '@shopify/polaris';
 import { useDispatch, useSelector } from 'react-redux';
 import { BuyCakes, BuyChocolate, BuyIceCream, Input } from './Redux/Actions';
